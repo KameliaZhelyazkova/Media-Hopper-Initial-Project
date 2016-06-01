@@ -1,11 +1,20 @@
 from kaltura_lib.KalturaClient import *
 
+<<<<<<< HEAD
 partnerID = 1817881
 admin_secret = "1a7227978d8228dde2a574fac2c9b371"
 userID = "kamelia.zhelyazkova@ed.ac.uk"
 ks_type = 2
 expiry = 360
 privileges = ""
+=======
+partnerID =
+admin_secret =
+userID =
+ks_type =
+expiry =
+privileges =
+>>>>>>> 8dff3088c950601f606248c6d7761ed6bc51f048
 
 
 
