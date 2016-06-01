@@ -23,3 +23,4 @@ ks = client.generateSession(admin_secret, userID, ks_type, partnerID, expiry, pr
 client.setKs(ks)
 
 print("DONE!")
+
