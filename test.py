@@ -1,17 +1,17 @@
 from kaltura_lib.KalturaClient import *
-
 from secret import admin_secret
 
 partnerID = 1817881
 userID = "kamelia.zhelyazkova@ed.ac.uk"
-ks_type = 0
+ks_type = 2
+
 
 config = KalturaConfiguration(partnerID)
 # where 123 is your partner ID
 
 config.serviceUrl = "http://www.kaltura.com"
 # if you want to communicate with a Kaltura server which is
-#    other than the default http://www.kaltura.com
+# other than the default http://www.kaltura.com
 
 client = KalturaClient(config)
 
