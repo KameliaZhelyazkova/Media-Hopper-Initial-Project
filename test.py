@@ -1,6 +1,6 @@
 from kaltura_lib.KalturaClient import *
 
-partnerID = 
+partnerID =
 admin_secret =
 userID =
 ks_type =
